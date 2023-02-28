@@ -1,8 +1,11 @@
 ## Applied Data Science Capstone: Winning Space Race with Data Science
+
+<br/>
+
 *This is a guided final project from IBM Data Science Professional Certificate programs on Coursera.*
 
 
-*Upon completion of this project, [IBM Data Science Professional Cerificate](https://coursera.org/share/ea3504ed490dab23019840e83bc1d53c) is earned!*
+*After completion of this project, the [Cerificate](https://coursera.org/share/ea3504ed490dab23019840e83bc1d53c) is earned!*
 
 
 <br/>
